@@ -1,0 +1,13 @@
+# 隐私与运行环境
+.workbuddy/
+__pycache__/
+*.pyc
+
+# 运行时产物（由流水线重新生成，无需跟踪）
+data/
+index.html
+deploy/index.html
+deploy/dashboard_data.json
+
+# 系统垃圾
+.DS_Store
