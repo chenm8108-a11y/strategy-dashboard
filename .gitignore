@@ -6,8 +6,8 @@ __pycache__/
 # 运行时产物（由流水线重新生成，无需跟踪）
 data/
 index.html
-deploy/index.html
-deploy/dashboard_data.json
+# 注意：deploy/index.html 与 deploy/dashboard_data.json 跟踪进仓库，
+# 作为云端首次运行 / 数据源失效时的降级基底（FALLBACK_JSON）。
 
 # 系统垃圾
 .DS_Store
