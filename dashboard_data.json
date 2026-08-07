@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06 10:16",
+  "generated_at": "2026-08-07 06:04",
   "doc_url": "https://docs.qq.com/sheet/DWmlnRURUbnNHd1Zu",
   "tandabing": {
     "date": "2026/8/5",
@@ -1260,7 +1260,8 @@
   },
   "cb_ipo": {
     "source": "东方财富·可转债列表",
-    "apply": [
+    "apply": [],
+    "listing": [
       {
         "code": "123281",
         "name": "中仑转债",
@@ -1272,7 +1273,7 @@
         "scale": 10.68,
         "rating": "AA-",
         "transfer_price": 20.28,
-        "status": "today"
+        "status": "listing"
       },
       {
         "code": "111026",
@@ -1285,7 +1286,7 @@
         "scale": 15.8,
         "rating": "AA",
         "transfer_price": 81.8,
-        "status": "today"
+        "status": "listing"
       },
       {
         "code": "118076",
@@ -1298,21 +1299,6 @@
         "scale": 7.5,
         "rating": "AA",
         "transfer_price": 86.4,
-        "status": "today"
-      }
-    ],
-    "listing": [
-      {
-        "code": "113708",
-        "name": "N曙26转",
-        "apply_code": "754019",
-        "stock_name": "中科曙光",
-        "stock_code": "603019",
-        "apply_date": "2026-07-15",
-        "listing_date": "2026-08-06",
-        "scale": 80,
-        "rating": "AAAsti",
-        "transfer_price": 108.89,
         "status": "listing"
       },
       {
@@ -1450,42 +1436,18 @@
   },
   "hk_ipo": {
     "source": "阿斯达克·新股中心",
-    "fetched_at": "2026-08-06 10:16",
-    "stocks": [
-      {
-        "code": "02261",
-        "name": "拿森科技",
-        "industry": "机动车零配件与设备",
-        "price_range": "待定",
-        "lot_size": "100",
-        "entry_fee": "1,129.27",
-        "apply_end": "2026-08-04",
-        "dark_date": "",
-        "listing_date": "",
-        "apply_start": "2026-07-30",
-        "pricing_date": "2026-08-05",
-        "result_date": "2026-08-06",
-        "sponsor": "中银国际亚洲有限公司",
-        "mkt_cap": "6,199,736,323 - 6,651,924,385",
-        "public_offer_pct": "10.00",
-        "public_offer_lots": 57595
-      }
-    ],
+    "fetched_at": "2026-08-07 06:04",
+    "stocks": [],
     "conflicts": [],
-    "error": "",
-    "via": "aastocks"
+    "error": "备用源在此环境不可用"
   },
   "insights": [
     "股债ETF轮动国内版当前持有 30年国债ETF，已持续 8 个交易日",
     "股债ETF轮动国际版当前持有 纳指ETF，已持续 1 个交易日",
     "转债到期为正摊大饼策略当前空仓，100 个持仓位待填充",
     "QDII基金池 69 只基金：暂停申购 18 只，不限购 6 只，其余限购",
-    "可转债打新：中仑转债（正股 中仑新材，10.68 亿，AA-）今日申购",
-    "可转债打新：派克转债（正股 派克新材，15.8 亿，AA）今日申购",
-    "可转债打新：先锋转债（正股 先锋精科，7.5 亿，AA）今日申购",
-    "转债待上市：N曙26转 上市日 2026-08-06",
-    "转债待上市：三鑫转债 上市日 日期待定",
-    "转债待上市：天脉转债 上市日 日期待定",
-    "港股打新：拿森科技（02261）招股中，招股价 待定 港元， 上市"
+    "转债待上市：中仑转债 上市日 日期待定",
+    "转债待上市：派克转债 上市日 日期待定",
+    "转债待上市：先锋转债 上市日 日期待定"
   ]
 }
