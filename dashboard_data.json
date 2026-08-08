@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 06:04",
+  "generated_at": "2026-08-08 04:19",
   "doc_url": "https://docs.qq.com/sheet/DWmlnRURUbnNHd1Zu",
   "tandabing": {
     "date": "2026/8/5",
@@ -1263,6 +1263,19 @@
     "apply": [],
     "listing": [
       {
+        "code": "118073",
+        "name": "赛斯转债",
+        "apply_code": "718480",
+        "stock_name": "赛恩斯",
+        "stock_code": "688480",
+        "apply_date": "2026-07-17",
+        "listing_date": "2026-08-12",
+        "scale": 5.519,
+        "rating": "AA",
+        "transfer_price": 88.16,
+        "status": "listing"
+      },
+      {
         "code": "123281",
         "name": "中仑转债",
         "apply_code": "371565",
@@ -1417,26 +1430,13 @@
         "rating": "AAA",
         "transfer_price": 8.74,
         "status": "listing"
-      },
-      {
-        "code": "118073",
-        "name": "赛斯转债",
-        "apply_code": "718480",
-        "stock_name": "赛恩斯",
-        "stock_code": "688480",
-        "apply_date": "2026-07-17",
-        "listing_date": "",
-        "scale": 5.519,
-        "rating": "AA",
-        "transfer_price": 88.16,
-        "status": "listing"
       }
     ],
     "error": ""
   },
   "hk_ipo": {
     "source": "阿斯达克·新股中心",
-    "fetched_at": "2026-08-07 06:04",
+    "fetched_at": "2026-08-08 04:19",
     "stocks": [],
     "conflicts": [],
     "error": "备用源在此环境不可用"
@@ -1446,8 +1446,8 @@
     "股债ETF轮动国际版当前持有 纳指ETF，已持续 1 个交易日",
     "转债到期为正摊大饼策略当前空仓，100 个持仓位待填充",
     "QDII基金池 69 只基金：暂停申购 18 只，不限购 6 只，其余限购",
+    "转债待上市：赛斯转债 上市日 2026-08-12",
     "转债待上市：中仑转债 上市日 日期待定",
-    "转债待上市：派克转债 上市日 日期待定",
-    "转债待上市：先锋转债 上市日 日期待定"
+    "转债待上市：派克转债 上市日 日期待定"
   ]
 }
