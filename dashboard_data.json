@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 05:47",
+  "generated_at": "2026-08-15 03:05",
   "doc_url": "https://docs.qq.com/sheet/DWmlnRURUbnNHd1Zu",
   "tandabing": {
     "date": "2026/8/5",
@@ -1290,19 +1290,6 @@
     ],
     "listing": [
       {
-        "code": "123277",
-        "name": "玉禾转债",
-        "apply_code": "370815",
-        "stock_name": "玉禾田",
-        "stock_code": "300815",
-        "apply_date": "2026-07-29",
-        "listing_date": "2026-08-14",
-        "scale": 15,
-        "rating": "AA",
-        "transfer_price": 16.35,
-        "status": "listing"
-      },
-      {
         "code": "113709",
         "name": "振26转债",
         "apply_code": "754067",
@@ -1355,6 +1342,19 @@
         "status": "listing"
       },
       {
+        "code": "118075",
+        "name": "奥普转债",
+        "apply_code": "718686",
+        "stock_name": "奥普特",
+        "stock_code": "688686",
+        "apply_date": "2026-07-29",
+        "listing_date": "2026-08-19",
+        "scale": 12.7,
+        "rating": "AA",
+        "transfer_price": 150.03,
+        "status": "listing"
+      },
+      {
         "code": "123281",
         "name": "中仑转债",
         "apply_code": "371565",
@@ -1392,26 +1392,13 @@
         "rating": "AA",
         "transfer_price": 86.4,
         "status": "listing"
-      },
-      {
-        "code": "118075",
-        "name": "奥普转债",
-        "apply_code": "718686",
-        "stock_name": "奥普特",
-        "stock_code": "688686",
-        "apply_date": "2026-07-29",
-        "listing_date": "",
-        "scale": 12.7,
-        "rating": "AA",
-        "transfer_price": 150.03,
-        "status": "listing"
       }
     ],
     "error": ""
   },
   "hk_ipo": {
     "source": "阿斯达克·新股中心",
-    "fetched_at": "2026-08-14 05:47",
+    "fetched_at": "2026-08-15 03:05",
     "stocks": [],
     "conflicts": [],
     "error": "备用源在此环境不可用"
@@ -1424,8 +1411,8 @@
     "QDII基金池 69 只基金：暂停申购 18 只，不限购 6 只，其余限购",
     "可转债打新：震裕转02（正股 震裕科技，18.8 亿，AA-）2026-08-17 申购",
     "可转债打新：丰茂转债（正股 丰茂股份，6.075298 亿，AA-）2026-08-18 申购",
-    "转债待上市：玉禾转债 上市日 2026-08-14",
     "转债待上市：振26转债 上市日 2026-08-17",
-    "转债待上市：天脉转债 上市日 2026-08-18"
+    "转债待上市：天脉转债 上市日 2026-08-18",
+    "转债待上市：合金转债 上市日 2026-08-18"
   ]
 }
