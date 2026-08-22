@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 03:32",
+  "generated_at": "2026-08-22 03:09",
   "doc_url": "https://docs.qq.com/sheet/DWmlnRURUbnNHd1Zu",
   "tandabing": {
     "date": "2026/8/5",
@@ -1289,6 +1289,19 @@
         "status": "listing"
       },
       {
+        "code": "118076",
+        "name": "先锋转债",
+        "apply_code": "718605",
+        "stock_name": "先锋精科",
+        "stock_code": "688605",
+        "apply_date": "2026-08-06",
+        "listing_date": "2026-08-26",
+        "scale": 7.5,
+        "rating": "AA",
+        "transfer_price": 86.4,
+        "status": "listing"
+      },
+      {
         "code": "123284",
         "name": "强达转债",
         "apply_code": "371628",
@@ -1326,32 +1339,19 @@
         "rating": "AA-",
         "transfer_price": 104.85,
         "status": "listing"
-      },
-      {
-        "code": "118076",
-        "name": "先锋转债",
-        "apply_code": "718605",
-        "stock_name": "先锋精科",
-        "stock_code": "688605",
-        "apply_date": "2026-08-06",
-        "listing_date": "",
-        "scale": 7.5,
-        "rating": "AA",
-        "transfer_price": 86.4,
-        "status": "listing"
       }
     ],
     "error": ""
   },
   "hk_ipo": {
     "source": "阿斯达克·新股中心",
-    "fetched_at": "2026-08-21 03:32",
+    "fetched_at": "2026-08-22 03:09",
     "stocks": [
       {
         "code": "03223",
         "name": "君正股份",
         "industry": "半导体产品及设备",
-        "price_range": "N/A",
+        "price_range": "100",
         "lot_size": "100",
         "entry_fee": "10,383.68",
         "apply_end": "2026-08-20",
@@ -1378,7 +1378,7 @@
     "QDII基金池 69 只基金：暂停申购 18 只，不限购 6 只，其余限购",
     "转债待上市：中仑转债 上市日 2026-08-24",
     "转债待上市：派克转债 上市日 2026-08-25",
-    "转债待上市：强达转债 上市日 日期待定",
-    "港股打新：君正股份（03223）招股中，招股价 N/A 港元，2026-08-25 上市"
+    "转债待上市：先锋转债 上市日 2026-08-26",
+    "港股打新：君正股份（03223）招股中，招股价 100 港元，2026-08-25 上市"
   ]
 }
