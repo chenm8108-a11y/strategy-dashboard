@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11 04:01",
+  "generated_at": "2026-09-12 04:03",
   "doc_url": "https://docs.qq.com/sheet/DWmlnRURUbnNHd1Zu",
   "tandabing": {
     "date": "2026/9/4",
@@ -1293,17 +1293,17 @@
   },
   "hk_ipo": {
     "source": "阿斯达克·新股中心",
-    "fetched_at": "2026-09-11 04:01",
+    "fetched_at": "2026-09-12 04:03",
     "stocks": [
       {
         "code": "06727",
         "name": "星环科技",
-        "industry": "N/A",
+        "industry": "新一代信息技术",
         "price_range": "49-61",
         "lot_size": "100",
         "entry_fee": "6,161.51",
         "apply_end": "2026-09-16",
-        "dark_date": "",
+        "dark_date": "2026-09-18",
         "listing_date": "2026-09-21",
         "apply_start": "2026-09-11",
         "pricing_date": "2026-09-17",
