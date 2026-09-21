@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20 04:23",
+  "generated_at": "2026-09-21 04:21",
   "doc_url": "https://docs.qq.com/sheet/DWmlnRURUbnNHd1Zu",
   "tandabing": {
     "date": "2026/9/4",
@@ -1266,7 +1266,34 @@
   },
   "cb_ipo": {
     "source": "东方财富·可转债列表",
-    "apply": [],
+    "apply": [
+      {
+        "code": "127117",
+        "name": "奥士转债",
+        "apply_code": "072913",
+        "stock_name": "奥士康",
+        "stock_code": "002913",
+        "apply_date": "2026-09-23",
+        "listing_date": "",
+        "scale": 10,
+        "rating": "AA",
+        "transfer_price": 83.96,
+        "status": "apply"
+      },
+      {
+        "code": "123286",
+        "name": "国科转债",
+        "apply_code": "371571",
+        "stock_name": "国科天成",
+        "stock_code": "301571",
+        "apply_date": "2026-09-23",
+        "listing_date": "",
+        "scale": 8.488,
+        "rating": "AA-",
+        "transfer_price": 74.5,
+        "status": "apply"
+      }
+    ],
     "listing": [
       {
         "code": "113710",
@@ -1312,36 +1339,18 @@
   },
   "hk_ipo": {
     "source": "阿斯达克·新股中心",
-    "fetched_at": "2026-09-20 04:23",
+    "fetched_at": "2026-09-21 04:21",
     "stocks": [
-      {
-        "code": "06727",
-        "name": "星环科技",
-        "industry": "新一代信息技术",
-        "price_range": "49",
-        "lot_size": "100",
-        "entry_fee": "6,161.51",
-        "apply_end": "2026-09-16",
-        "dark_date": "",
-        "listing_date": "2026-09-21",
-        "apply_start": "2026-09-11",
-        "pricing_date": "2026-09-17",
-        "result_date": "2026-09-18",
-        "sponsor": "海通国际资本有限公司",
-        "mkt_cap": "6,622,189,084 - 8,243,949,676",
-        "public_offer_pct": "5.00",
-        "public_offer_lots": 7006
-      },
       {
         "code": "09856",
         "name": "纳真科技",
         "industry": "电讯及网络器材设备",
-        "price_range": "32.96",
+        "price_range": "32.960",
         "lot_size": "100",
         "entry_fee": "3,329.24",
         "apply_end": "2026-09-17",
-        "dark_date": "2026-09-21",
-        "listing_date": "2026-09-22",
+        "dark_date": "",
+        "listing_date": "",
         "apply_start": "2026-09-14",
         "pricing_date": "2026-09-14",
         "result_date": "2026-09-21",
@@ -1351,16 +1360,7 @@
         "public_offer_lots": 172015
       }
     ],
-    "conflicts": [
-      {
-        "pair": [
-          "星环科技",
-          "纳真科技"
-        ],
-        "overlap_start": "2026-09-14",
-        "overlap_end": "2026-09-18"
-      }
-    ],
+    "conflicts": [],
     "error": "",
     "via": "aastocks"
   },
@@ -1369,11 +1369,11 @@
     "股债ETF轮动国内版当前持有 30年国债ETF，已持续 1 个交易日",
     "股债ETF轮动国际版当前持有 纳指ETF，已持续 1 个交易日",
     "QDII基金池 69 只基金：暂停申购 23 只，不限购 5 只，其余限购",
+    "可转债打新：奥士转债（正股 奥士康，10 亿，AA）2026-09-23 申购",
+    "可转债打新：国科转债（正股 国科天成，8.488 亿，AA-）2026-09-23 申购",
     "转债待上市：四方转债 上市日 2026-09-23",
     "转债待上市：瑞鹄转02 上市日 日期待定",
     "转债待上市：润禾转02 上市日 日期待定",
-    "港股打新：星环科技（06727）招股中，招股价 49 港元，2026-09-21 上市",
-    "港股打新：纳真科技（09856）招股中，招股价 32.96 港元，2026-09-22 上市",
-    "⚠️ 资金冲突：星环科技 与 纳真科技 申购资金冻结期重叠（2026-09-14 ~ 2026-09-18），需统筹安排"
+    "港股打新：纳真科技（09856）招股中，招股价 32.960 港元， 上市"
   ]
 }
