@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 03:58",
+  "generated_at": "2026-10-19 04:06",
   "doc_url": "https://docs.qq.com/sheet/DWmlnRURUbnNHd1Zu",
   "tandabing": {
     "date": "2026/9/4",
@@ -1279,6 +1279,19 @@
         "rating": "AA",
         "transfer_price": 95.49,
         "status": "apply"
+      },
+      {
+        "code": "118078",
+        "name": "航亚转债",
+        "apply_code": "718510",
+        "stock_name": "航亚科技",
+        "stock_code": "688510",
+        "apply_date": "2026-10-21",
+        "listing_date": "",
+        "scale": 6,
+        "rating": "AAsti",
+        "transfer_price": 23.93,
+        "status": "apply"
       }
     ],
     "listing": [
@@ -1391,7 +1404,7 @@
   },
   "hk_ipo": {
     "source": "阿斯达克·新股中心",
-    "fetched_at": "2026-10-18 03:58",
+    "fetched_at": "2026-10-19 04:06",
     "stocks": [
       {
         "code": "06157",
@@ -1422,6 +1435,7 @@
     "股债ETF轮动国际版当前持有 纳指ETF，已持续 15 个交易日",
     "QDII基金池 69 只基金：暂停申购 34 只，不限购 4 只，其余限购",
     "可转债打新：申菱转债（正股 申菱环境，10 亿，AA）2026-10-20 申购",
+    "可转债打新：航亚转债（正股 航亚科技，6 亿，AAsti）2026-10-21 申购",
     "转债待上市：隆新转债 上市日 2026-10-19",
     "转债待上市：国科转债 上市日 2026-10-19",
     "转债待上市：奥士转债 上市日 2026-10-20",
