@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22 06:01",
+  "generated_at": "2026-11-23 06:53",
   "doc_url": "https://docs.qq.com/sheet/DWmlnRURUbnNHd1Zu",
   "tandabing": {
     "date": "2026/9/4",
@@ -1272,7 +1272,7 @@
         "scale": 5.5,
         "rating": "AA-",
         "transfer_price": 66.46,
-        "status": "apply"
+        "status": "today"
       }
     ],
     "listing": [
@@ -1294,18 +1294,18 @@
   },
   "hk_ipo": {
     "source": "阿斯达克·新股中心",
-    "fetched_at": "2026-11-22 06:01",
+    "fetched_at": "2026-11-23 06:53",
     "stocks": [
       {
         "code": "09941",
         "name": "先通医药─B",
         "industry": "生物科技- 制药",
-        "price_range": "52-68",
+        "price_range": "待定",
         "lot_size": "50",
         "entry_fee": "3,434.29",
         "apply_end": "2026-11-19",
-        "dark_date": "2026-11-23",
-        "listing_date": "2026-11-24",
+        "dark_date": "",
+        "listing_date": "",
         "apply_start": "2026-11-16",
         "pricing_date": "2026-11-20",
         "result_date": "2026-11-23",
@@ -1313,19 +1313,6 @@
         "mkt_cap": "3,411,699,928 - 4,461,453,752",
         "public_offer_pct": "10.00",
         "public_offer_lots": 13122
-      },
-      {
-        "code": "01821",
-        "name": "中旅港澳",
-        "industry": "旅游",
-        "price_range": "N/A",
-        "lot_size": "500",
-        "entry_fee": "N/A",
-        "apply_end": "",
-        "dark_date": "",
-        "listing_date": "2026-11-26",
-        "sponsor": "中国银河国际证券(香港)有限公司",
-        "mkt_cap": "N/A"
       }
     ],
     "conflicts": [],
@@ -1336,9 +1323,8 @@
     "转债低溢价轮动 保守/激进双版重合 11 只：皖天转债、镇洋转债、帝欧转债、湘佳转债、蓝天转债、优彩转债、海顺转债、晓鸣转债、贵燃转债、百洋转债、火星转债",
     "股债ETF轮动国内版当前持有 50ETF，已持续 3 个交易日",
     "QDII基金池 69 只基金：暂停申购 28 只，不限购 6 只，其余限购",
-    "可转债打新：圣晖转债（正股 圣晖集成，5.5 亿，AA-）2026-11-23 申购",
+    "可转债打新：圣晖转债（正股 圣晖集成，5.5 亿，AA-）今日申购",
     "转债待上市：百龙转债 上市日 日期待定",
-    "港股打新：先通医药─B（09941）招股中，招股价 52-68 港元，2026-11-24 上市",
-    "港股打新：中旅港澳（01821）待上市，招股价 N/A 港元，2026-11-26 上市"
+    "港股打新：先通医药─B（09941）招股中，招股价 待定 港元， 上市"
   ]
 }
